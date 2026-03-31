@@ -1,0 +1,5 @@
+x=int(input("enter number"))
+print(x)
+print("binary=",bin(x))
+print("octal=",oct(x))
+print("hexadecimal=",hex(x))
