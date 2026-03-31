@@ -1,6 +1,6 @@
 class Person:
     def introduce(self):
-        print("Hello, I am Hara")
+        print("Hello, I am Sdh")
 class Student(Person):
     def study(self):
         print("I am Playing")
